@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilewebapp\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\cars\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilewebapp\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\cars\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilewebapp\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\cars\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilewebapp\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\cars\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB56ED0-D2B3-472B-BE2C-E885BCB46E88}|AutomobileLibrary\\AutomobileLibrary.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilelibrary\\dataaccess\\cardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB56ED0-D2B3-472B-BE2C-E885BCB46E88}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\dataaccess\\cardao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB56ED0-D2B3-472B-BE2C-E885BCB46E88}|AutomobileLibrary\\AutomobileLibrary.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilelibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB56ED0-D2B3-472B-BE2C-E885BCB46E88}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCB56ED0-D2B3-472B-BE2C-E885BCB46E88}|AutomobileLibrary\\AutomobileLibrary.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilelibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCB56ED0-D2B3-472B-BE2C-E885BCB46E88}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\repository\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\automobilewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD8E69A-5E6D-40FC-9407-5F784FDEE6ED}|AutomobileWebApp\\AutomobileWebApp.csproj|solutionrelative:automobilewebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 633,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Details.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Cars\\Details.cshtml",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Details.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Cars\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T15:00:43.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Cars\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T17:21:09.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Cars\\Delete.cshtml",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Delete.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Cars\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:42:12.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Create.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Cars\\Create.cshtml",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Cars\\Create.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Cars\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T16:21:28.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarDAO.cs",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "RelativeToolTip": "AutomobileLibrary\\DataAccess\\CarDAO.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwE4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:42:20.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileLibrary\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\Repository\\CarRepository.cs",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileLibrary\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "AutomobileLibrary\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:42:34.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "RelativeToolTip": "AutomobileLibrary\\Repository\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:42:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AutomobileWebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T16:49:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AutomobileWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PRN211\\MyCode\\Automobile-eStore\\Automobile-eStore\\AutomobileWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AutomobileWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:43:19.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
