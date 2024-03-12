@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AutomobileLibrary.DataAccess.Car>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Car List</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CarId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CarName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Manufacturer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleasedYear)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CarName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Manufacturer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleasedYear)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.CarId },FormMethod.Get) |
+                    @Html.ActionLink("Details", "Details", new { id = item.CarId, FormMethod.Get }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CarId, FormMethod.Get })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
